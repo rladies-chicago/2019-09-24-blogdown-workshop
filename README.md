@@ -3,12 +3,13 @@ Materials for Sept 24 blogdown workshop for R-Ladies Chicago
 
 ## Used during R-Ladies Chicago workshop
 
-<img src="img/examples.png" width="120" />
-<img src="img/get-started.png" width="120" />
-<img src="img/workflow.png" width="120" />
-<img src="img/learn-more.png" width="120" />
-
 * [Google Slides](https://docs.google.com/presentation/d/1eQooAomuDflV60C9W32BgK6XQkqqYOzWOv3Q2pNxsP4/edit?usp=sharing) for the workshop ([PDF version](https://github.com/rladies-chicago/2019-09-24-blogdown-workshop/blob/master/2019-09-24-blogdown-workshop.pdf) in here if you want to download)
+
+<img src="img/examples.png" width="300" />
+<img src="img/get-started.png" width="300" />
+<img src="img/workflow.png" width="300" />
+<img src="img/learn-more.png" width="300" />
+
 * [R Code from the workshop](https://github.com/rladies-chicago/2019-09-24-blogdown-workshop/blob/master/blogdown-workshop.R)
 
 ## Additional resources
