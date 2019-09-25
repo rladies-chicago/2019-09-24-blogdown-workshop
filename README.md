@@ -1,5 +1,5 @@
 # 2019-09-24-blogdown-workshop
-Materials for Sept 24 blogdown workshop for R-Ladies Chicago
+Materials for [Sept 24 blogdown workshop](https://www.meetup.com/rladies-chicago/events/264595913/) for R-Ladies Chicago
 
 ## Used during R-Ladies Chicago workshop
 
