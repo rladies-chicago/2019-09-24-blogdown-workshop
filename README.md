@@ -1,6 +1,8 @@
 # 2019-09-24-blogdown-workshop
 Materials for Sept 24 blogdown workshop for R-Ladies Chicago
 
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 ## Used during R-Ladies Chicago workshop
 
 * [Google Slides](https://docs.google.com/presentation/d/1eQooAomuDflV60C9W32BgK6XQkqqYOzWOv3Q2pNxsP4/edit?usp=sharing) for the workshop ([PDF version](https://github.com/rladies-chicago/2019-09-24-blogdown-workshop/blob/master/2019-09-24-blogdown-workshop.pdf) in here if you want to download)
