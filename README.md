@@ -1,7 +1,10 @@
 # 2019-09-24-blogdown-workshop
-Materials for [Sept 24 blogdown workshop](https://www.meetup.com/rladies-chicago/events/264595913/) for R-Ladies Chicago
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
+Materials for [Sept 24 blogdown workshop](https://www.meetup.com/rladies-chicago/events/264595913/) for R-Ladies Chicago
+
+This workshop is more of a web development in R workshop than a data science in R workshop - you'll find that there are only a few functions in blogdown that we use, and the rest is about file organization, and putting things in the right place to make a properly formatted website with blogdown. If you've come here for data analysis, I'll warn you that you've come to the wrong place!
 
 ## Used during R-Ladies Chicago workshop
 
